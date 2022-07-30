@@ -35,6 +35,7 @@ export const Content = styled.div`
 
 
         @media(min-width: 1048px){
+            width: 968px;
             flex-direction: row;
             justify-content: space-between;
             align-items: start;
